@@ -9,7 +9,7 @@
 
 
 
-[colab-url]: https://colab.research.google.com/github/K-A-M-R-U-L/Gurl/blob/main/URL_TO_GOOGLE_DRIVE.ipynb
+[colab-url]: https://colab.research.google.com/github/Kamrulofficial/Gurl/blob/main/URL_TO_GOOGLE_DRIVE.ipynb
 
 * READ ME MORE......<br>
 If you just want to transfer a single file, then don't include the "forward slash" which I forced you to put in the CELL for the folder transfer.
